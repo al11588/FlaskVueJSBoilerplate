@@ -2,7 +2,7 @@
 
 # Description: 
 
-This boilerplate code uses Flask, Vue JS, Axios, and the Advice API. You can use Jinja2 with Vue JS to show data on your HTML pages.
+This boilerplate code uses Flask, Vue JS, Axios, and the Advice API. You can use Jinja2 with Vue JS to show data on your HTML pages. The [Advice API] gives new advice randomly.
 
 # Use:  
 
