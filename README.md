@@ -17,7 +17,7 @@ Vue JS users: Instead of using `{{ data }}` to display data use `[[ data ]]`.
 
 *	**Python Packages Used**: Flask.
 
-*	**JavaScript Libraries Used**: Vue JS, and Axios.
+*	**JavaScript Libraries Used**: Axios.
 
 *	**API's Used**: [Advice API].
 
