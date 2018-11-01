@@ -1,4 +1,4 @@
-# Flask, Vue JS, API, Boilerplate
+# Flask, Vue JS, Axios, API, Boilerplate
 
 # Description: 
 
