@@ -6,7 +6,7 @@ This boilerplate code uses Flask, Vue JS, Axios and the Advice API. You can use 
 
 # Use:  
 
-Vue JS users: Instead of using {{ data }} use [[ data ]] . 
+Vue JS users: Instead of using `{{ data }}` use `[[ data ]]` to show data. 
 
 
 ![Imade of website](https://raw.githubusercontent.com/al11588/FlaskVueJSBoilerplate/master/image.png?token=AFM1uP_w1ihL91NRAKram46BFzlAYlgeks5b48OVwA%3D%3D)
