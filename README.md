@@ -2,7 +2,7 @@
 
 # Description: 
 
-This boilerplate code uses Flask, Vue JS, Axios and the Advice API. You can use Jinja with Vue JS to show data on your HTML pages.
+This boilerplate code uses Flask, Vue JS, Axios, and the Advice API. You can use Jinja2 with Vue JS to show data on your HTML pages.
 
 # Use:  
 
@@ -19,7 +19,7 @@ Vue JS users: Instead of using `{{ data }}` use `[[ data ]]` to show data.
 
 *	**JavaScript Libraries Used**: Vue JS, and Axios.
 
-*	**API's Used**: Advice API.
+*	**API's Used**: [Advice API].
 
 
 
@@ -36,3 +36,5 @@ Vue JS users: Instead of using `{{ data }}` use `[[ data ]]` to show data.
 *	**Run**: "pip install -r requirements.txt".
 
 *	**Run**: "python3 manage.py".
+
+[Advice API]:http://api.adviceslip.com/
